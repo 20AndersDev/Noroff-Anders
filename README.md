@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anders</h1>
 <h3 align="center">I am am an Front end developer. I recently graduated from noroff's front end online studies</h3>
 
-- 🔭 I’m currently working on [Here are a link to all projects i have been working on during noroff](https://github.com/Noroff-Anders?tab=repositories)
+- 🔭 I’m currently working on: [Here are a link to all projects i have been working on during noroff studies](https://github.com/Noroff-Anders?tab=repositories)
 
-- 🌱 I’m currently learning **I am currently working on learning React anf planning on learning other JS framework and backend applications. **
+- 🌱 I’m currently learning: **I am currently working on learning React anf planning on learning other JS framework and backend applications. **
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://dev-anders.netlify.app/)
 
